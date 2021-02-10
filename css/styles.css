@@ -1,7 +1,7 @@
 body {
   color: #40514E;
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.75rem;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -48,7 +48,7 @@ p {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #EAF6F6;
   margin-top: 30px;
   padding: 20px 0 20px 0;
 }
