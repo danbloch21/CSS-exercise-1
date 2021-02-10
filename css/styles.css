@@ -1,6 +1,7 @@
 body {
   color: #40514E;
   margin: 0;
+  font-size: 1.5rem;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -15,13 +16,13 @@ margin-top: 0;
 h2 {
   color: #66BFBF;
   font-family: 'Roboto', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.75rem;
   padding-bottom: 10px;
 }
 
 h3 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   color: #66BFBF;
 }
 
