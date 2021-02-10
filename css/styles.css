@@ -1,7 +1,7 @@
 body {
   color: #40514E;
   margin: 0;
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -82,7 +82,7 @@ p {
    width: 25%;
    float: left;
    margin-right: 30px;
-   margin-bottom: 110px;
+   margin-bottom: 180px;
  }
 
  .skills-icon-2 {
