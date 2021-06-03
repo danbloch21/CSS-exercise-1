@@ -135,19 +135,13 @@ margin-left: 40px;
   padding: 20px 0;
 }
 
- a {
+
+
+ .social-links {
    color: #11999E;
    text-decoration: none;
  }
 
- a:hover {
+ .social-links:hover {
    color: #eaf6f6;
  }
-
- .iconify {
-   color: #11999E;
- }
-
- .iconify:hover {
-   color: #eaf6f6;
-}
