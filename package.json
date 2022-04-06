@@ -1,0 +1,22 @@
+{
+  "name": "css---my-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbloch21/CSS-exercise-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbloch21/CSS-exercise-1/issues"
+  },
+  "homepage": "https://github.com/danbloch21/CSS-exercise-1#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
